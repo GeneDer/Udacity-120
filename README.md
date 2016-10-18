@@ -1,4 +1,4 @@
 ud120-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+Project codes for Udacity ud120 completed by Gene Der Su.
